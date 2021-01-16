@@ -1,4 +1,4 @@
-# Projeto desenvolvido  durante o Curso de Angular da Digital Innovation Dio
+# Project developed during the Digital Innovation Dio Angular Course
 
 # CourseManager
 
